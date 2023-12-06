@@ -11,4 +11,4 @@ Base qui contient une table "Cartes" qui stocke les 52 cartes du jeu réparties 
 
 Malheureusement, je n'ai pas terminé cette troisième et dernière partie en raison d'erreurs survenues lors de la compilation et du lancement du programme. Ces erreurs semblent liées à des problèmes de compatibilité que je n'ai pas réussi à résoudre.
 
-Le projet est dans le fichier demo.zip
+Le projet est dans le dossier "demo" ou le fichier compressé "demo.zip".
