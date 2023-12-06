@@ -10,3 +10,5 @@ En ce qui concerne la partie 3, pour l'application web en Java, j'ai utilisé le
 Base qui contient une table "Cartes" qui stocke les 52 cartes du jeu réparties par valeurs et couleurs (Fait en Partie 2).
 
 Malheureusement, je n'ai pas terminé cette troisième et dernière partie en raison d'erreurs survenues lors de la compilation et du lancement du programme. Ces erreurs semblent liées à des problèmes de compatibilité que je n'ai pas réussi à résoudre.
+
+Le projet est dans le fichier demo.zip
